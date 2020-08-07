@@ -164,3 +164,39 @@ li a
     margin-top: 10px;margin-left: 10px;
 }
 
+@media (min-width:320px)
+{
+    container
+    {
+        width: 320px;
+    }
+}
+@media (min-width:481px)
+{
+    container
+    {
+        width: 481px;
+    }
+}
+@media (min-width:1000px)
+{
+    container
+    {
+        width: 1000px;
+    }
+}
+@media (max-width:481px)
+{
+    .box
+    {
+        width: 100%;
+    }
+    #image
+    {
+        width: 100%;
+    }
+    h2
+    {
+        text-align: center;
+    }
+}
