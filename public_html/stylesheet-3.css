@@ -1,0 +1,165 @@
+body
+{
+    background-color: black;
+    color:#FFFF00;
+}
+h1
+{
+    font-size:64px;
+}
+h4
+{
+    font-size:24px;
+    color:#FFFFFF;
+    font-family: roboto;
+}
+p
+{
+   font-size:35px;font-color:#FFFF00;font-family:Roboto;
+}
+.button
+{
+        color: #FFFFFF;
+        background-color:#0000FF;
+        font-size: 44px;
+        border-radius: 20px;
+        border-color: #FFFFFF;
+        padding: 20px;
+}
+#left
+{
+   float:left;    
+}
+
+#right
+{
+    float:right;
+}
+
+li
+{
+   font-size:35px;font-color:#FFFF00;font-family:Roboto;
+}
+
+div
+{
+    border:5px solid white;
+    margin:100px 100px 50px 20px;
+    padding:20px 10px 10px 50px;
+    float:left;
+}
+h3
+{
+    color:#FFFFFF;font-family: Roboto;font-size:44;
+}
+
+dt
+{
+    color:#FFFFFF;font-size:35px;font-family:Roboto;
+}
+
+dd
+{
+   font-size:35px;font-color:#FFFF00;font-family:Roboto; 
+}
+#image
+{
+    float:left;
+    padding:0px 20px 20px 20px;
+}
+#identity
+{
+    overflow:auto;
+}
+#background-image
+{
+    background-image: url("img/bat_cover.jpg");
+    height: 350px;
+    width:900px;
+    padding: 50px 50px 50px 50px;
+    color:#FFFFFF;
+    margin:50px 150px 50px 150px;
+}
+
+#content
+{
+    background-color: rgba(0,0,0,0.7);
+    height:175px;
+    width: 450px;
+    padding: 30px 20px;
+    margin:50px 200px 50px 200px;
+}
+h2{
+    font-size:54px;
+    
+}
+.thumbnail {
+    display: inline-block;
+
+    height: auto;
+
+    padding: 10px;
+
+    margin:25px 50px 25px 50px;
+
+    border: 1px solid #a4a4a4;
+
+    text-align: center;
+
+    color: #FFFF00;
+
+}
+
+table
+{
+    border:1px solid;
+    width:100%;
+    border-collapse:collapse;
+}
+
+th,td
+{
+    font-family: roboto;
+    font-size:35px;
+    padding:5px;
+    border:1px solid #a4a4a4;
+    height:30px;
+}
+
+th
+{
+    text-align: left;
+    background-color: #FFFFFF;
+}
+
+nav { 
+    list-style-type: none;
+    margin: 0;
+    padding: 0; 
+    overflow: hidden; 
+} 
+
+li a 
+{ 
+    display: block; 
+    color: #666; 
+    padding: 14px 16px; 
+    text-decoration: none; 
+    float: right; 
+}
+#header {
+    padding: 5px 0px;
+    color:#403F3F;
+    text-align:center;
+    margin:auto;
+    width: 99%;
+   
+}
+.logo{
+    float: left;
+    height: 50px;
+    font-size: 18px;
+    line-height: 20px;
+    margin-top: 10px;margin-left: 10px;
+}
+
